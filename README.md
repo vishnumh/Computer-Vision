@@ -1,6 +1,6 @@
 # Computer-Vision
 This repository shows my work on my computer vision assigments which includes: 
-\n
+IFS=$'\n'
 HW 2. Spatial Pyramid Matching for Scene Classification
 \n
 HW 3. Neural Networks and CNN for OCR and Object Detection
