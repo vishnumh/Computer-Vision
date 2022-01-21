@@ -1,9 +1,14 @@
 # Computer-Vision
 This repository shows my work on my computer vision assigments which includes: 
+#
 HW 2. Spatial Pyramid Matching for Scene Classification
+#
 HW 3. Neural Networks and CNN for OCR and Object Detection
+#
 HW 4. Feature Descriptors, Homographies & RANSAC
+#
 HW 5. 3D Reconstruction and Bunddle Adjustments
+#
 HW 6. Lucas-Kanade Tracking and Correlation Filters
 
 ## 3D Recontructions 
