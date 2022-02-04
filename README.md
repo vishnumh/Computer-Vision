@@ -16,7 +16,7 @@ HW 5. 3D Reconstruction and Bunddle Adjustments
 
 HW 6. Lucas-Kanade Tracking and Correlation Filters
 
-## 3D Recontructions 
+## Triangulation 
 <img src="https://github.com/vishnumh/Computer-Vision/blob/main/HW5/images/q3b.png" width="500">
 
 ## Optical flow
